@@ -17,7 +17,7 @@ export default function AboutPage() {
 
             <h2 className="text-2xl font-bold mt-8 mb-4">What I Do</h2>
             <p>
-              I work primarily with Python (Django) and Go, building backend systems that power logistics operations. 
+              I work primarily with Python and Go, building backend systems that power logistics operations. 
               I also enjoy frontend development and database optimization, always looking for ways to improve performance and user experience.
             </p>
 
@@ -80,7 +80,7 @@ export default function AboutPage() {
                 LinkedIn
               </a>
               <a
-                href="mailto:apuaimanlian@example.com"
+                href="mailto:apuaimanlian@gmail.com"
                 className="px-6 py-3 border border-gray-300 dark:border-gray-700 rounded-lg font-medium hover:bg-gray-50 dark:hover:bg-gray-900 transition-colors"
               >
                 Email
