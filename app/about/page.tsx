@@ -64,7 +64,7 @@ export default function AboutPage() {
             </p>
             <div className="flex gap-4 mt-6">
               <a
-                href="https://github.com/yourusername"
+                href="https://github.com/jackapu"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="px-6 py-3 bg-gray-900 dark:bg-gray-100 text-white dark:text-gray-900 rounded-lg font-medium hover:bg-gray-800 dark:hover:bg-gray-200 transition-colors"
@@ -72,7 +72,7 @@ export default function AboutPage() {
                 GitHub
               </a>
               <a
-                href="https://linkedin.com/in/yourusername"
+                href="https://linkedin.com/in/zeyuanpu"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="px-6 py-3 bg-primary-600 text-white rounded-lg font-medium hover:bg-primary-700 transition-colors"
@@ -80,7 +80,7 @@ export default function AboutPage() {
                 LinkedIn
               </a>
               <a
-                href="mailto:your.email@example.com"
+                href="mailto:apuaimanlian@example.com"
                 className="px-6 py-3 border border-gray-300 dark:border-gray-700 rounded-lg font-medium hover:bg-gray-50 dark:hover:bg-gray-900 transition-colors"
               >
                 Email
