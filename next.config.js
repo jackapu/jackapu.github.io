@@ -4,9 +4,6 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  // For GitHub Pages deployment to username.github.io/repo-name
-  basePath: '/jackapu.github.io',
-  assetPrefix: '/jackapu.github.io',
 }
 
 module.exports = nextConfig
