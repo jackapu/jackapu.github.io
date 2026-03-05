@@ -1,3 +1,11 @@
+---
+title: "AI Coding Roadmap"
+date: "2024-03-04"        # YYYY-MM-DD in quotes
+excerpt: "Your description here"
+tags: ["AI", "Tutorial"]
+author: "Your Name"
+---
+
 # AI-Integrated Software Engineering Roadmap
 
 *10 weeks · 15–20 hours/week · Focused on what you'll actually use*
