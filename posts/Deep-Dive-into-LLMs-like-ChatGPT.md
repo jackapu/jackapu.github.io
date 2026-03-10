@@ -41,11 +41,11 @@ Window of tokens
 
 We call a window of tokens "context"
 
-![image-20260305201132825](/Users/jackpu/Library/Application Support/typora-user-images/image-20260305201132825.png)
+![image-20260305201132825](/images/Deep-Dive-into-LLMs-like-ChatGPT/image-20260305201132825.png)
 
 Give the answer, tweak the NN so the probablity of the correct token is higher
 
-![image-20260305201533276](/Users/jackpu/Library/Application Support/typora-user-images/image-20260305201533276.png)
+![image-20260305201533276](/images/Deep-Dive-into-LLMs-like-ChatGPT/image-20260305201533276.png)
 
 **Step4**: Inference:
 
@@ -57,7 +57,7 @@ generate data, just predict one token at a time
 
 
 
-![image-20260305211226417](/Users/jackpu/Library/Application Support/typora-user-images/image-20260305211226417.png)
+![image-20260305211226417](/images/Deep-Dive-into-LLMs-like-ChatGPT/image-20260305211226417.png)
 
 After training from internet documents, then train by human conversations.
 
@@ -65,7 +65,7 @@ This process is much smaller than pre-training
 
 The training is under exact same algrithm just by conversations.
 
-![image-20260308202528741](/Users/jackpu/Library/Application Support/typora-user-images/image-20260308202528741.png)
+![image-20260308202528741](/images/Deep-Dive-into-LLMs-like-ChatGPT/image-20260308202528741.png)
 
 
 
@@ -79,7 +79,7 @@ It's getting better now (updated: 2026-03-08)
 
 How to fix this?
 
-![image-20260308203330572](/Users/jackpu/Library/Application Support/typora-user-images/image-20260308203330572.png) 
+![image-20260308203330572](/images/Deep-Dive-into-LLMs-like-ChatGPT/image-20260308203330572.png) 
 
 
 
@@ -120,7 +120,7 @@ hidden token of self-knowledge(system message )
 
 ### Models need tokens to think
 
-![image-20260308213408834](/Users/jackpu/Library/Application Support/typora-user-images/image-20260308213408834.png)
+![image-20260308213408834](/images/Deep-Dive-into-LLMs-like-ChatGPT/image-20260308213408834.png)
 
 
 
@@ -146,7 +146,7 @@ Then use tools like code. Updated 2026-03 getting much better now with advanced 
 
 ## Reinforcement learning
 
-![image-20260308215641657](/Users/jackpu/Library/Application Support/typora-user-images/image-20260308215641657.png)
+![image-20260308215641657](/images/Deep-Dive-into-LLMs-like-ChatGPT/image-20260308215641657.png)
 
 Exposition(background knowledge) == pretraining
 
@@ -158,11 +158,11 @@ Worked problems(problem + demonstrated solution, for imitation) == supervised fi
 
 
 
-![image-20260308222207463](/Users/jackpu/Library/Application Support/typora-user-images/image-20260308222207463.png)
+![image-20260308222207463](/images/Deep-Dive-into-LLMs-like-ChatGPT/image-20260308222207463.png)
 
 
 
-![image-20260308221541338](/Users/jackpu/Library/Application Support/typora-user-images/image-20260308221541338.png)
+![image-20260308221541338](/images/Deep-Dive-into-LLMs-like-ChatGPT/image-20260308221541338.png)
 
 
 
@@ -182,7 +182,7 @@ Problem: how do we score them
 
 
 
-![image-20260309191828371](/Users/jackpu/Library/Application Support/typora-user-images/image-20260309191828371.png)
+![image-20260309191828371](/images/Deep-Dive-into-LLMs-like-ChatGPT/image-20260309191828371.png)
 
 Upside: we can run RL in arbitrary domains
 
