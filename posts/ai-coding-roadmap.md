@@ -1,9 +1,9 @@
 ---
 title: "AI Coding Roadmap"
 date: "2024-03-04"        # YYYY-MM-DD in quotes
-excerpt: "Your description here"
+excerpt: "A roadmap for integrating AI tools into your software engineering workflow"
 tags: ["AI", "Tutorial"]
-author: "Your Name"
+author: "Zeyuan Pu"
 ---
 
 # AI-Integrated Software Engineering Roadmap

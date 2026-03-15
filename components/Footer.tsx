@@ -4,11 +4,11 @@ export default function Footer() {
       <div className="container mx-auto px-4 sm:px-6 lg:px-8 py-8">
         <div className="flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-sm text-gray-600 dark:text-gray-400">
-            © {new Date().getFullYear()} Your Name. Built with Next.js & Tailwind CSS.
+            © {new Date().getFullYear()} Zeyuan Pu. Built with Next.js & Tailwind CSS.
           </p>
           <div className="flex gap-6">
             <a
-              href="https://github.com/yourusername"
+              href="https://github.com/jackapu"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-600 dark:text-gray-400 hover:text-primary-600 transition-colors"
@@ -16,7 +16,7 @@ export default function Footer() {
               GitHub
             </a>
             <a
-              href="https://linkedin.com/in/yourusername"
+              href="https://linkedin.com/in/zeyuanpu"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-600 dark:text-gray-400 hover:text-primary-600 transition-colors"
@@ -24,7 +24,7 @@ export default function Footer() {
               LinkedIn
             </a>
             <a
-              href="mailto:your.email@example.com"
+              href="mailto:apuaimanlian@gmail.com"
               className="text-gray-600 dark:text-gray-400 hover:text-primary-600 transition-colors"
             >
               Email

@@ -3,7 +3,7 @@ title: "Notes for watching YouTube view Deep Dive into LLMs"
 date: "2026-03-09"
 excerpt: "Brief document the video"
 tags: ["AI", "Tutorial"]
-author: "Zeyuan"
+author: "Zeyuan Pu"
 ---
 
 

@@ -3,7 +3,7 @@ title: "Understanding Go Channels: Patterns and Best Practices"
 date: "2024-02-05"
 excerpt: "A deep dive into Go channels, covering common patterns, pitfalls, and real-world use cases for building concurrent systems."
 tags: ["Go", "Concurrency", "Backend"]
-author: "Your Name"
+author: "Zeyuan Pu"
 ---
 
 Channels are one of Go's most powerful features for concurrent programming. They enable goroutines to communicate safely without explicit locks. However, they can be tricky if you don't understand their behavior.

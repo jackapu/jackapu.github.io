@@ -57,7 +57,7 @@ export function getSortedPostsData(): PostMetadata[] {
         date: matterResult.data.date,
         excerpt: matterResult.data.excerpt,
         tags: matterResult.data.tags || [],
-        author: matterResult.data.author || 'Your Name',
+        author: matterResult.data.author || 'Zeyuan Pu',
         readTime: `${readTime} min read`,
       }
     })
@@ -100,7 +100,7 @@ export async function getPostData(slug: string): Promise<Post> {
     date: matterResult.data.date,
     excerpt: matterResult.data.excerpt,
     tags: matterResult.data.tags || [],
-    author: matterResult.data.author || 'Your Name',
+    author: matterResult.data.author || 'Zeyuan Pu',
     readTime: `${readTime} min read`,
   }
 }

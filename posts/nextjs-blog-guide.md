@@ -3,7 +3,7 @@ title: "Building a Modern Blog with Next.js 14: A Complete Guide"
 date: "2024-02-15"
 excerpt: "Step-by-step guide to building a fast, SEO-friendly blog using Next.js 14, TypeScript, and Tailwind CSS. Perfect for developers who want a beautiful portfolio."
 tags: ["Next.js", "React", "TypeScript", "Frontend"]
-author: "Your Name"
+author: "Zeyuan Pu"
 ---
 
 After years of working primarily with backend technologies, I wanted to build a personal blog that showcased modern frontend skills. Here's what I learned building this site.

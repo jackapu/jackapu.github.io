@@ -3,7 +3,7 @@ title: "Optimizing Django ORM Queries: A Practical Guide"
 date: "2024-02-10"
 excerpt: "Learn how to identify and fix common Django ORM performance issues that can slow down your application. Real-world examples from production systems."
 tags: ["Python", "Django", "Performance", "Database"]
-author: "Your Name"
+author: "Zeyuan Pu"
 ---
 
 As Django developers, we often write ORM queries without thinking about their performance implications. While Django's ORM is powerful and convenient, it can generate inefficient SQL if we're not careful.
