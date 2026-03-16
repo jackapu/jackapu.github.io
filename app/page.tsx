@@ -15,9 +15,6 @@ export default function Home() {
             <h1 className="text-4xl md:text-6xl font-bold tracking-tight mb-6 bg-gradient-to-r from-primary-600 to-primary-400 bg-clip-text text-transparent">
               Welcome to My Dev Blog
             </h1>
-            <p className="text-xl md:text-2xl text-gray-600 dark:text-gray-400 mb-8">
-              Sharing insights on software engineering, Python, Go, and web development
-            </p>
             <div className="flex gap-4 justify-center">
               <Link
                 href="/blog"
